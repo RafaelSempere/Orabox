@@ -1,4 +1,5 @@
-- ORABOX - 
+ORABOX 
+
 Contributors: Rafael Sempere
 Contributor's Website: https://rafaelsempere.com
 Tags: Admin, theme, modern, blue
@@ -8,17 +9,17 @@ Stable tag: 1.1
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-- Description -
+Description
 
 Improving the default Wordpress Admin Dashboard Theme.
 
-- Installation -
+Installation
 
 Well, you just have to upload the plugin and click install.
 
-- Frequently Asked Questions - 
+Frequently Asked Questions
 
-- Changelog - 
+Changelog
 
-= 1.1 =
+1.1 
 * First Version
