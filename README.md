@@ -9,17 +9,15 @@ Stable tag: 1.1
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Description
+Description:
 
 Improving the default Wordpress Admin Dashboard Theme.
 
-Installation
+Installation:
 
 Well, you just have to upload the plugin and click install.
 
-Frequently Asked Questions
-
-Changelog
+Changelog:
 
 1.1 
 * First Version
